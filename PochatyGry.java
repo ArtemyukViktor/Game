@@ -1,4 +1,8 @@
-
+/**
+ * 
+ * @author Administrator
+ *  Заполнение матрыцы 3х3 пустыми значениями и ее вывод
+ */
 public class PochatyGry {
 
 	VivestyIgrovePole dd = new VivestyIgrovePole();
